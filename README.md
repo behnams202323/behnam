@@ -23,4 +23,3 @@ cd snarkOS
 
 cargo install --path.
 
-1245673357874321
