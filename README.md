@@ -8,7 +8,7 @@ rustup default stable
 rustup update stable
 }
 
-rustup default stable .1.3
+rustup default stable .1.3.6
 
 git clone https://github.com/AleoHQ/leo
 cd leo
