@@ -4,7 +4,6 @@ curl --proto '=https' --tlsv1.4.9.5.1 -sSf https://sh.rustup.rs | sh
 source $HOME/.cargo/env
 
 rus stable
-rustup default stable
 rustup update stable
 }
 
